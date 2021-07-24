@@ -1,3 +1,6 @@
+-- 0. BORRAR BASE DE DATOS
+DROP DATABASE peliculas;
+
 -- 1. Crear base de datos 'peliculas'
 CREATE DATABASE peliculas;
 
